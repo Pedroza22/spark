@@ -4,6 +4,19 @@
 
 ---
 
+## 👥 Participantes
+
+Taller realizado en equipo por:
+
+| # | Nombre Completo | Rol |
+|---|---|---|
+| 1 | **Catalina Gaviria** | Desarrollo / Análisis de datos |
+| 2 | **Juliana Rodríguez** | Desarrollo / Análisis de datos |
+| 3 | **Helen Moncayo** | Desarrollo / Análisis de datos |
+| 4 | **Julián Pedroza** | Desarrollo / Análisis de datos |
+
+---
+
 ## 📋 Tabla de Contenido
 
 1. [Descripción del Taller](#1-descripción-del-taller)
